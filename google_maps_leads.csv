@@ -1,0 +1,505 @@
+Restaurant Name,Address,Approximate Rating,Number of Ratings,Source URL
+Sumo Japanese Restaurant,"355 State St, Los Altos",4.3,334,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLYsmK-6wj4AR5mtsIe0ZzLk
+Yoshi Sushi,"250 3rd St, Los Altos",4.4,197,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJPcGlQeqxj4AR9FkT7-9ijKA
+Sushi Arashi,"240 Castro St, Mountain View",4.4,153,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLalQbCu3j4ARhYSFis6AvSA
+Hanamaru,"675 S Bernardo Ave, Sunnyvale",4.2,398,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2_drFum2j4ARdQ3ok0PiRrw
+Okayama Express,"2587 N First St, San Jose",4.2,489,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJH99Kft_Lj4AR1_PVxCDMt3M
+Harumi Sushi,"19754 Stevens Creek Blvd, Cupertino",4.2,434,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_wU1FKG1j4AR82hmMCTHwvw
+Kakuna Sushi,"75 S Abbott Ave, Milpitas",4.4,151,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEbdIzPPJj4ARyzRrLDiMw6s
+YAYOI Palo Alto,"403 University Ave, Palo Alto",4.2,1139,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpTk-VTi7j4ARpZhH_XR68_I
+Yayoi Cupertino,"20682 Homestead Rd, Cupertino",4.2,814,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0Yswecm1j4ARNMQsiaowIRE
+Sushi O Sushi Japanese Cuisine,"2789 El Camino Real, Santa Clara",4.3,705,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJj5rFQBPKj4AR1IU4bKscQCs
+Kura Revolving Sushi Bar,"19600 Vallco Pkwy #160, Cupertino",4.2,2398,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ6bWI2J61j4ARY5IwPV9HXP0
+V Sushi,"74 Ranch Dr, Milpitas",3.9,351,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3WUYeN_Ij4ARWhem3GludXI
+KoKoLo Donburi - Milpitas,"179 Ranch Dr, Milpitas",4.3,182,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJdyR3gV_Jj4ARD7Q4zFH3X_Q
+Onigilly Japanese Kitchen - Palo Alto,"164 University Ave, Palo Alto",4.2,369,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJz1CaiuS7j4ARJ0FvNTILUoo
+Akita Sushi Gourmet Inc,"2251 The Alameda, Santa Clara",3.5,166,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJMZjFUX7Jj4AR9BHkREjuptY
+Araki Sushi,"201 University Ave, Palo Alto",4.3,312,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL6eIury7j4ARRvbC__WInac
+Homi Japanese Ramen,"1133 Lawrence Expy, Sunnyvale",4.1,326,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJs1wECym2j4ARIoWYJutYUqA
+Poke House - Santa Clara,"3942 Rivermark Plaza, Santa Clara",4.1,139,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZxqNJazJj4ARKi0fGCgyV_k
+TANTO Japanese Restaurant,"1063 E El Camino Real, Sunnyvale",4.4,1159,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJd9TXHPC1j4ARszU6xMtr_Vs
+Sushi Boat,"1701 Airport Blvd, San Jose",3.5,112,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJPW-nhJXLj4ARKaJl8tguF78
+State of Mind Slice House,"3850 El Camino Real, Palo Alto",4.7,520,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJg5-D9Aq7j4ARGDDPZcQFjmg
+Cicero's Pizza,"6138 Bollinger Rd, San Jose",4.6,1543,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJM2ZD0W21j4AROTebEICll5A
+Giovanni's New York Pizzeria,"1127 Lawrence Expy, Sunnyvale",4.5,864,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJW5RBFCm2j4ARcqcZfJ-q3QY
+Pizzeria Delfina - Palo Alto,"651 Emerson St, Palo Alto",4.4,1415,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJCS_HTDq7j4ARskXdL5usfsU
+A Slice of New York,"1253 W El Camino Real, Sunnyvale",4.6,1344,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqUF5g-i2j4AR55flyM4fVp8
+Krusti Pizza & Pasta,"341 Lafayette St #104, Santa Clara",4.8,322,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJreU802rLj4AR_qZwqxA2UFo
+Pizz'A Chicago,"1576 Halford Ave, Santa Clara",4.4,1106,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ25RpmPC1j4AR-E6WgzojjeU
+State of Mind Public House and Pizzeria,"101 Plaza N, Los Altos",4.6,1090,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbXQkXe6wj4ARdvBYlDi9YNM
+Maldonado's Pizzeria,"615 S Rengstorff Ave, Mountain View",4.4,660,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSTu5CLywj4ARdXEmSuNMISk
+Spot A Pizza Place,"133 Main St, Los Altos",4,207,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJXznL_e6wj4ARFXQ_b26GIAs
+Jake's of Sunnyvale,"174 E Fremont Ave, Sunnyvale",4.4,805,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIxPu-9a1j4ARP4A48kcBtww
+Tony & Alba’s Pizza and Pasta,"3137 Stevens Creek Blvd, San Jose",4.4,586,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJM48yHOHKj4AROIgl7Sqz4hE
+Tasty Subs & Pizza,"528 Lawrence Expy, Sunnyvale",4.2,2213,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9YoEpR-2j4ARO_aEnQAFS70
+Tandoori Pizza - Sunnyvale,"241 W Washington Ave, Sunnyvale",4.4,645,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ75gAZ2u3j4AROYF2dFABNnc
+Tasty Pizza,"21000 Stevens Creek Blvd #200, Cupertino",4.3,221,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJUcKPO6i1j4ARuRy8JNTaoGM
+212 New York Pizza,"19998 Homestead Rd, Cupertino",4.4,223,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJiYkVmbi1j4ARs6ocdExoJ5Q
+New York Pizza Palo Alto,"325 Hamilton Ave, Palo Alto",4.5,566,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0y2QeTm7j4ARoys6DSP_0k4
+Legends Pizza Co.,"19732 Stevens Creek Blvd, Cupertino",4.2,174,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_2LnV6C1j4AR7s1SqwzW1qk
+Premier Pizza,"3944 Rivermark Plaza, Santa Clara",4.4,584,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJec-odnbJj4AR1jSSe-kILRQ
+My Indian Pizza,"939 W El Camino Real #112, Sunnyvale",4.3,644,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxdsHX6i3j4AR08mH409OiHY
+Curry Pizza House Cupertino,"20080 Stevens Creek Blvd, Cupertino",4.3,607,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL6Xsqze1j4ARKy05koUhFTU
+Pizza My Heart,"4300 Great America Pkwy #148, Santa Clara",4.3,794,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAzBxucPJj4ARwx_RgDNuL24
+Mountain Mike's Pizza,"1001 El Camino Real, Menlo Park",4.2,158,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJyyp24eClj4ARq9LeAXdUlFE
+New York Pizza,"1040 Grant Rd # 310, Mountain View",4.3,524,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5Z7q1de2j4ARGQo7GtP9k3Q
+Howie's Artisan Pizza,"855 El Camino Real #60, Palo Alto",4.4,448,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHz4XFiW7j4AR4OCRJ5FPWnQ
+Pizza My Heart,"2855 Stevens Creek Blvd, Santa Clara",4.1,155,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgexMlR_Lj4ARQf4QA_UId5U
+Pizza My Heart,"220 University Ave, Palo Alto",4.2,1286,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJN1Yf8Dm7j4ARg7totskx17E
+Via Mia Pizza,"19998 E Homestead Rd, Cupertino",4.4,144,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJR95lWPC1j4ARl4tTXsGZVog
+Mountain Mike's Pizza,"848 E El Camino Real, Sunnyvale",4.2,167,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJITkovxG1j4ARXD_oSCL3dO8
+Emmanuel's Pizza & Bakery,"1435 E Bayshore Rd, East Palo Alto",4.2,258,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJd_N8a2-7j4ARpvJvLS3h9ag
+Tony’s Pizza,"820 Willow Rd, Menlo Park",3.9,198,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ46iIrl67j4ARS9sincACO3Q
+Blue Line Pizza,"146 Castro St, Mountain View",4.4,1182,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4CRJDS3j4ARpVclpxEi2O4
+Tandoori Pizza - San Jose,"3350 Zanker Rd #30, San Jose",4,274,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJcy-El7DJj4AR1GtcG4HrGAU
+Amici's East Coast Pizzeria,"880 Santa Cruz Ave, Menlo Park",4.2,522,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJXTqVn7qkj4ARa3-Bikh4S9c
+California Pizza Kitchen at Santa Clara,"3535 Monroe St, Santa Clara",4,1112,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJl5KUQAC2j4ARy1qvrOHluIk
+Seniore's Pizza,"940 Monroe St, Santa Clara",4.3,431,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJF1CxJ1PKj4AR667t4HLrbro
+Pizza+,"375 Saratoga Ave D, San Jose",4.5,138,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSwYEwXzLj4ARjrx3cB5cgGE
+Pizza My Heart,"700 Bellomy St, Santa Clara",4.5,595,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVVf2V6jLj4ARQpRxl_sUhlE
+Mountain Mike's Pizza,"3918-B Middlefield Rd, Palo Alto",3.8,234,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxWMIsW26j4ARP3JAJRibIWg
+Fast Pizza Delivery,"327 Moffett Blvd, Mountain View",4.5,146,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBZGjzDe3j4ARJHD5hayJ-sY
+Super Taqueria,"1195 W El Camino Real, Sunnyvale",4.2,1706,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJuRzizei2j4ARQ90BzlxGveI
+Taqueria Los Cuñados,"196 Ranch Dr, Milpitas",4.2,1008,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJfXJdJN_Ij4ARhi61HoNsQCE
+Puesto Santa Clara,"2752 Augustine Dr #110, Santa Clara",4.5,4367,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJDXRaF-7Jj4ARP7pAVdmdxH4
+Taqueria El Grullense M&G,"3636 El Camino Real, Palo Alto",4.2,1481,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7f7sE4u6j4ARzIuv160J9jU
+López Taqueria,"305 N Fair Oaks Ave, Sunnyvale",4.4,771,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJV6kK0G2j4ARerHW0SFr50Q
+Ruby's Taqueria,"821 Borregas Ave, Sunnyvale",4.3,686,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJc8HfD7O3j4ARgC1Adf0bSeY
+Speedy's Tacos,"929 E Duane Ave, Sunnyvale",4.6,1506,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG1yUxCS2j4ARPvV3r5UxHmc
+Lopez Taqueria 3,"808 W El Camino Real, Sunnyvale",4.5,103,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09WkjoW3j4ARCSswPMTpnvw
+Taqueria La Cazuela,"2390 Clarke Ave, East Palo Alto",4.6,843,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ14a7_Xu7j4ARRKXwuk2lSiw
+Tía Juana Grill,"901 E Duane Ave, Sunnyvale",4.4,865,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-8xbITu2j4ARfKE9Wk7TUUY
+Celia’s Mexican Restaurant,"3740 El Camino Real, Palo Alto",4.3,674,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7c_w_4q6j4ARF8QWNPNwbck
+Mi Taqueria,"875 Hamilton Ave, Menlo Park",4.3,419,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJUW8_cZi8j4ARlXrMi3FLNhE
+Garcia's Taqueria,"738 S Fair Oaks Ave, Sunnyvale",4,887,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJt-9M-3C2j4ARStIFAZ8_1sY
+Pedro's Restaurant & Cantina,"3935 Freedom Cir, Santa Clara",4.2,3942,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJTZghkezJj4ARYiB5UzJzq7E
+Estrellita Mexican Bistro,"971 N San Antonio Rd, Los Altos",4.4,735,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1YsQu5uwj4ARLCuO0c9AdlA
+Corazon Mexican Food,"1255 S Mary Ave, Sunnyvale",4.4,310,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxb7137m3j4ARLzZ76dXcqz4
+Taqueria Vallarta,"2525 Scott Blvd, Santa Clara",4.2,325,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZba2TyXKj4ARgG3VQrT2K8Q
+Tres Potrillos Taqueria,"670 N Fair Oaks Ave, Sunnyvale",4.2,1464,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlz5Ftje2j4ARcQA_BP54Ki8
+Taqueria Pátzcuaro,"603 Old San Francisco Rd, Sunnyvale",4.6,387,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJS28ZPG62j4ARwbtARjzWoWs
+El Caminito,"510 E El Camino Real, Sunnyvale",4.1,602,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtXB_j3q2j4ARLJpG8rQtAfs
+El Buen Sazón,"995 Saratoga Ave, San Jose",4.3,193,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJiydfePTLj4ARFdIK4F0bCZ8
+Jennifer taqueria,"1929 Latham St, Mountain View",3.8,348,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJTxs7Nbiwj4AR57LIHUNCytA
+Los Altos Taqueria Mexican Inc,"2105 Old Middlefield Way, Mountain View",4.2,1453,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhzHBsAe6j4ARvq9oi8u-bqQ
+Margarita’s Taqueria - Mobile Mexican Food Truck Service,"1175 E Homestead Rd, Sunnyvale",4.7,392,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHay5cBu3j4ARRViiblryQ8I
+Rio Adobe Southwest Cafe,"10525 S De Anza Blvd #100, Cupertino",4.5,520,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJTwJyqwC1j4ARFPJZPVR8448
+Rincon Sabroso Restaurant,"122 N Rengstorff Ave, Mountain View",4.1,687,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ--MPCaWwj4ARyYAEuYhsf0E
+Los Portales,"430 Moffett Blvd, Mountain View",4.4,577,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJwRZVJUi3j4ARRDXWLyu0pQ4
+La Veracruzana Restaurant,"1510 Jackson St, Santa Clara",4.3,1168,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJyRor80zKj4AR1EDi2xGWexk
+Como Esta Taqueria,"2605 Middlefield Rd, Palo Alto",4.2,272,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJd0Absfi6j4ARJUQZcc5Tzu0
+Mama Coco Cocina Mexicana,"1081 El Camino Real, Menlo Park",4.3,363,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJrbqcMa6kj4ARYORVCGFGaI0
+Marlen Taqueria,"2530 California St, Mountain View",3.9,147,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvdHHVp-wj4ARKJ0FAyX7W8U
+Lupita's Taqueria and Panderia,"2341 El Camino Real, Santa Clara",4.2,451,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJXz86653Lj4AR_0tMF0RBx-c
+Sonora Taqueria,"801 N Fair Oaks Ave, Sunnyvale",4.3,357,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqYYAdDa2j4ARr4aCEExMyw4
+Super Burrito,"1671 Hollenbeck Ave, Sunnyvale",4.1,205,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJoUJXrzO0j4ARMNXZ5VBjWgk
+Celia's,"1850 El Camino Real, Menlo Park",4.2,858,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq6CCdl-jj4ARjkoQDdcOsDE
+American Cafe,"4701 Great America Pkwy, Santa Clara",3.5,120,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJS1P3IMfJj4ARyYfto6rO7tk
+Madras Café,"1177 W El Camino Real, Sunnyvale",4.3,6588,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlbIO1Oi2j4ARp17Uf24xkHk
+Coupa Cafe - Green Library,"571 Escondido Mall, Stanford",4.3,719,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJzz6JWNa6j4ARuFl1EXnBCf0
+Shoreline Lake American Bistro,"3160 N Shoreline Blvd, Mountain View",4.3,449,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJm9IcbvW5j4ARA4qX8jpejtY
+Top Cafe,"1075 S De Anza Blvd, San Jose",4,483,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJo28bnwS1j4ARLPEo3z_18gg
+Cafe Nur,"280 Main St, Los Altos",4.4,371,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBRslye-wj4ARuC0vVUKqoNg
+Cafe Borrone,"1010 El Camino Real, Menlo Park",4.4,2142,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJARB2O66kj4ARF-HVDDNeV7c
+Cafe 220,"220 University Ave B, Palo Alto",4.1,517,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJN1Yf8Dm7j4ARG7rVVIG0vks
+Coupa Cafe - Colonnade,"4748 W El Camino Real, Los Altos",4.3,372,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJRYr-zZKxj4ARAjY61a9M-7M
+Top Cafe,"650 Barber Ln, Milpitas",3.7,138,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJm-Ur5yTJj4ARG_msHdeskC4
+Cafe Zoe & Neighborhood Pizza Guy,"1929 Menalto Ave, Menlo Park",4.6,517,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtYpHfUK7j4ARTWWW4_FP7DI
+Coupa Cafe - Stanford Research Park,"3215 Porter Dr, Palo Alto",4.4,163,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJl4_VYA-7j4ARsw5dATsflas
+Cafe Vitale,"987 Fremont Ave, Los Altos",4.4,357,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtbMfvUuxj4ARZ8BrWBSv-bE
+Sprout Cafe,"168 University Ave, Palo Alto",4.3,489,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaeHk_jm7j4ARZfXh674aljg
+Coupa Cafe - Ramona,"538 Ramona St, Palo Alto",4.3,1691,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJY5UIijm7j4ARPkLgY0DXJuI
+Cafe Baklava,"341 Castro St, Mountain View",4.3,1126,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJDQw_jjO3j4AREryI4CY4hEw
+Ginger Cafe,"398 W El Camino Real #114, Sunnyvale",4.2,554,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5SmFz2G2j4AR1vAqop6kLSk
+Ada's Cafe,"3700 Middlefield Rd, Palo Alto",4.6,305,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx2ma7QO7j4ARV8nE1vzVd6w
+Hobee's,"800 W Ahwanee Ave, Sunnyvale",4.3,1820,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJA__sba23j4AR-ZY9YZj_DbY
+Cafe Mei 美而美,"43761 Boscell Rd #5125, Fremont",4.4,237,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ17e8YR3Hj4ARyLTx-N0wzQY
+Coupa Cafe - GSB,"655 Knight Way, Stanford",4.3,213,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJWcHrNti6j4AR2u-_aV8SPfU
+Mardini's Deli Cafe,"408 Willow Rd, Menlo Park",4.5,655,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx_z8YNa7j4ARz1dXw2JYbAY
+Must be Thai,"3143 Stevens Creek Blvd, San Jose",4.1,1053,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxRbrPuHKj4ARCHvgdxv0uiE
+New Krungthai Restaurant,"580 N Winchester Blvd, San Jose",4.1,1608,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ6S2BTOLKj4ARf5_A7Pl0bf0
+Pad Thai Cuisine,"500 Lawrence Expy B, Sunnyvale",4.2,390,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqXPxUB62j4ARUAqMwfyLuHk
+Tommy Thai,"1482 W El Camino Real, Mountain View",4,1307,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJR_KFNsmwj4ARvqLjNxrWAzE
+Siam Fine Thai Cuisine,"3924 El Camino Real, Palo Alto",4.3,548,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJF-8UBYq6j4AR5FBD89Ka32Y
+Jasmine,"1211 Franklin Mall, Santa Clara",4.1,587,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJzWoO0lLKj4AR2O_X8nO-BtE
+Amarin Thai Cuisine,"147 Castro St, Mountain View",4,1856,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ6ycgPTS3j4AR3oKYKGHPFjc
+Blurr Kitchen,"2374 El Camino Real, Santa Clara",4.4,328,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJY0YYT0DKj4ARwp-ZX3iKpm0
+Asian Box,"142 Castro St, Mountain View",4.3,682,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7wIcJTS3j4AROn_VlyvSoaw
+Shana Thai,"311A Moffett Blvd, Mountain View",4.2,1753,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJteR5Oja3j4ARTvsIorMrGII
+Peppermint Indian Restaurant,"1169 W El Camino Real, Sunnyvale",4.8,270,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJp6-yXci3j4ARO8eSCFOnA1Q
+Shahi Darbar Indian Cuisine,"2155 El Camino Real, Santa Clara",4.7,876,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx-N5KKTLj4ARRRKlbs_Lmb4
+Hyderabad Dum Biryani,"2105 Old Middlefield Way, Mountain View",4.3,675,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJETHw0F-7j4AR85V_I6OobCI
+Idly Express - Milpitas,"131 Ranch Dr, Milpitas",4.4,933,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJFQTfB0nJj4ARLe-QM08mIFE
+Tandoori junction,"698 W Dana St, Mountain View",4.7,140,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJy2E2x_y3j4ARZ4EQpvlWnTs
+Zareen's Palo Alto,"365 California Ave, Palo Alto",4.5,4745,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJcx9Pl-W6j4ARcUXBVpDCqUE
+Everest Cuisine,"425 N Whisman Rd #100, Mountain View",4.5,1790,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJjXKAThS3j4ARA2wf_yuYr5U
+Madurai Idli Kadai,"744 S Wolfe Rd, Sunnyvale",4.1,3553,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJh9yg7gy2j4ARSJ6ebV75n8g
+Puranpoli,"3074b Scott Blvd, Santa Clara",4.6,2323,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ75TXgLLJj4AR0VJmGQwlPRk
+Kabila Sweets And Restaurant,"3064 E El Camino Real, Santa Clara",4.3,680,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJN3IuZg3Kj4AR96Ys4IV-TSg
+Chaat Bhavan - Sunnyvale,"976 E El Camino Real, Sunnyvale",4.1,4444,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJwf-C5OW1j4ARYIPXPS0NtbU
+Spice Street Pav Bhaji Restaurant,"679 Tasman Dr, Sunnyvale",4.3,2377,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ47DG_NS3j4AR8W2zmaMqJKQ
+Bawarchi Biryanis Sunnyvale,"954 E El Camino Real, Sunnyvale",4.2,486,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_wjX7oO1j4ARg1ZZRIe6bI4
+Ugadi,"950 W El Camino Real, Sunnyvale",3.9,985,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJI97g_fK2j4AR4U10CGbIRoE
+Pav Bhaji and More Sunnyvale,"750 S Bernardo Ave, Sunnyvale",4.7,751,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2WxjnQ63j4ARwZHb9LlVjKo
+Annachikadai - Indian Restaurant,"80 W El Camino Real, Mountain View",4.1,1270,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIwoDVCi3j4ARI5JLg7gyjCQ
+Great Indian Cuisine,"2026 Agnew Rd, Santa Clara",3.9,1158,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJNzuT95fJj4AR5DKXGTvz6pA
+Chaat Bhavan Mountain View,"165 E El Camino Real, Mountain View",4.3,346,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvY7dlVq3j4AR27iAvJpn6bE
+Annapoorna Authentic Indian Cuisine,"770 E Tasman Dr, Milpitas",4.1,3213,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJRBu5bbIj4ARLQhJynrYXZA
+Curry Up Now,"3250 Zanker Rd #30, San Jose",4,2703,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ6cH_IG3Jj4ARTnyScHjs5Mc
+Radhe Chaat,"934 E El Camino Real, Sunnyvale",4.1,727,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJo_PyweK1j4ARTFwAYNEr3N4
+Chennai Tiffins Indian Restaurant,"2690 El Camino Real, Santa Clara",4,861,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu5VFCLnLj4ARNZQ2aWGtM6E
+Vishnuji Ki Rasoi,"731 S Wolfe Rd, Sunnyvale",3.9,1171,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJFwyMWIW3j4ARog5Gc2nL9Fg
+Chaat House Sunnyvale Wolfe,"889 E El Camino Real, Sunnyvale",4.1,1035,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJB7cvRee1j4ARbQhiToFGdCw
+BRUNDAVAN,"2798 E El Camino Real, Santa Clara",4,715,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxYDCFdzLj4AReITeaWrmKR8
+Johal Chaat & Curry,"1202 Kifer Rd, Sunnyvale",4.1,599,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1aXHqx63j4ARvqwA1NCeASc
+Komala Vilas,"1020 E El Camino Real, Sunnyvale",4.1,2125,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0eo2_Ym1j4ARXxhhNtxsEIY
+Swathi Tiffins,"1202 Apollo Way, Sunnyvale",3.9,507,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJn9w2S9K3j4AR-whTBtlWND8
+Chaat House Sunnyvale,"939 W El Camino Real, Sunnyvale",4,1283,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9dytoPO2j4AR2N5eZSlFB2E
+Indian Street Food - Food Truck,"603 Old San Francisco Rd, Sunnyvale",4.6,599,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtQ3ndCO3j4ARTToNOS78Zrg
+Abhiruchi,"893 E El Camino Real, Sunnyvale",4.3,858,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKeNFROe1j4ARbrKzssPCkfM
+SHAH RESTAURANT,"962 W El Camino Real, Sunnyvale",4,1416,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJsU2-VfK2j4ARtCefi14Etts
+Namaste Indian Cuisine,"447 California Ave, Palo Alto",4.7,280,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJE4gDeLG7j4AR_kI1Gek5x9E
+Delhiwala Chaat Restaurant,"590 Old San Francisco Rd, Sunnyvale",4.2,1712,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJCU-B50C2j4ARSTB0utAXas8
+Naan & Curry,"375 Saratoga Ave E, San Jose",3.9,510,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0cBYHJPKj4ARttjp0aHMa3s
+Anjappar Chettinad Indian Restaurant,"458 Barber Ln, Milpitas",3.7,2092,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIZaQaiTJj4ARs277fiP8TuY
+Curry Up Now,"321 Hamilton Ave, Palo Alto",4.1,1250,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaSemeTm7j4AR_Zs5k4tu6fU
+Pista House,"2798 El Camino Real, Santa Clara",3.9,144,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJW9E37CS3j4ARoVQ2XhWZ0po
+UlavacharU Indian Restaurant,"685 E El Camino Real, Sunnyvale",4,4295,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEXOAlHa2j4ARXkZnkoHjjAw
+Chaat Bhavan Express,"544 Lawrence Expy, Sunnyvale",4,101,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJt8bDhaW3j4ARqJavfTdH0CI
+Urban Grill Indian Cuisine,"1214 Apollo Way, Sunnyvale",4.6,1723,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJey9RZ9W3j4ARCdhptdU5N7A
+Satkar,"1253 W El Camino Real, Sunnyvale",4.4,1259,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqUF5g-i2j4ARQOAC5YSqmU8
+New Tandoori Cafe,"405 Saratoga Ave, San Jose",3.8,419,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJj5GvDILKj4ARtcX4TZcRt3k
+Dindigul Thalappakatti Restaurant,"252 Ranch Dr, Milpitas",4.1,3609,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu7W_M9_Ij4ARzBk5nwn2yiY
+SWARAJ Restaurant (Santa Clara ),"1855 El Camino Real, Santa Clara",4.5,1785,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJiXGrHZvLj4ARGmM0XUMY5Lg
+Tong Soon Garden,"3240 El Camino Real, Santa Clara",4.2,526,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJDbklagzKj4ARcSIsI68UNLI
+The Mandarin,"1029 El Camino Real, Menlo Park",4.3,162,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG9rCFfKlj4ARIBaOF4i5_M8
+CHINA WOK RESTAURANT,"2633 California St, Mountain View",4,157,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgT5ZKhGxj4ARdYMpDtwhEjk
+Mifen101 幺零幺(原花溪米粉王),"841 Villa St, Mountain View",4.4,453,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu3a5ugK3j4AR6uq-nikkeUo
+Fashion Wok,"163 S Murphy Ave, Sunnyvale",4.4,1224,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhXlocMy3j4AR2s9HRleLArE
+Hong Kong Restaurant,"3691 El Camino Real, Palo Alto",4.2,694,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtRLy85ywj4AR38KYK7uJ0Yc
+Ume Chinese Food,"2595 N First St, San Jose",4.1,138,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJd_jS1WHJj4ARxevw_dND8KQ
+Darda Express,"1211 S Mary Ave, Sunnyvale",4,119,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0Z1ma9i3j4ARh_0KNdaX_mg
+Beijing Restaurant,"1460 Halford Ave, Santa Clara",4.2,881,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpUrSP_G1j4ARQpBkDaP9Owc
+Wok's On Express,"156 W El Camino Real, Sunnyvale",3.9,333,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx2aCWGG2j4ARjGjTMJoWrlY
+Joy Wok,"494 N Mathilda Ave, Sunnyvale",4,239,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9Xd7KFK2j4ARUpIjF9TiGPo
+King Eggroll Express,"442 W Calaveras Blvd, Milpitas",3.5,334,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJoViReCjJj4ARJiGd9LNnBPo
+Liang's Village,"20530 Stevens Creek Blvd, Cupertino",4.2,689,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJUamHFaG1j4AROTmVVZJjq8I
+Wei's Fish,"10520 S De Anza Blvd, Cupertino",4.2,201,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJdX96niC1j4ARAPhEL95pgDc
+China Palace Restaurant,"688 Barber Ln, Milpitas",3.5,369,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAc8G2CTJj4ARbab4esLvp34
+Seasons Noodles & Dumplings Garden,"702 Villa St, Mountain View",4.5,257,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqR9iewC3j4ARFdkuydcsVXk
+Green Elephant Gourmet,"3950 Middlefield Rd, Palo Alto",4.1,245,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-Z6WDW26j4ARvRm_XzDSf3o
+Kirin Restaurant,"485 Castro St, Mountain View",3.9,559,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJoyO3qTO3j4ARqP2pWUBWU54
+Shanghai Family Restaurant,"10877 N Wolfe Rd, Cupertino",3.5,259,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ83Cp_ZW1j4ARaz2E_T3Z_8E
+Shanghai Bun Dynasty,"19634 Stevens Creek Blvd, Cupertino",4,415,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhafzm7y1j4ARgdm5WGVYhhk
+Inchin's Bamboo Garden,"55 River Oaks Pl #70, San Jose",3.6,2016,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJXf1l6wzJj4ARu9i9ijP_vNI
+Dim Sum King,"824 W El Camino Real, Sunnyvale",4.2,535,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJk9ZLOYu2j4ARgh7kQM5St5w
+Red Pepper Express Food Truck,"750 S Bernardo Ave, Sunnyvale",4.1,359,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJdwGwRfq3j4ARzt5UxHeYty8
+P.F. Chang's,"390 W El Camino Real, Sunnyvale",4,1285,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu5DJuWG2j4AR_rOKA_FQLs0
+Asian Street Eatery,"1146 W El Camino Real, Sunnyvale",3.9,127,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBZ6IcbW3j4ARzN118VO43bY
+Taste,"423 University Ave, Palo Alto",4.6,932,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJN1Zo_zi7j4ARIT2NbTuxNZQ
+Hunan Impression,"5152 Moorpark Ave #30, San Jose",4.3,1037,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJl41rEWC1j4AR9m5ndL7k-Js
+Hunan House,"122 S Sunnyvale Ave, Sunnyvale",4.7,348,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJRWU8M_a3j4ARt7n30Cdnxhs
+Chef Chu's,"1067 N San Antonio Rd #1300, Los Altos",4.5,2935,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1T9Tk5uwj4ARFI0FkzPKOvI
+China Delight,"2362 Pruneridge Ave, Santa Clara",4.3,180,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5xehT2vLj4ARlKp8dTP5Mrg
+Famous Food Chinese Restaurant,"872 Old San Francisco Rd, Sunnyvale",4.2,405,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJCxug4Ay2j4AROJr_grvgSN4
+Chef Zhao Kitchen,"2180 W Bayshore Rd #120, Palo Alto",4.2,745,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJTamC_qi7j4ARMAC_ZB2hHMI
+Panda Express,"790 E El Camino Real, Sunnyvale",3.9,1087,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJCV8fq9-1j4AREwWwHNO729Q
+China Stix,"2110 El Camino Real, Santa Clara",4.3,818,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-aYoH0TKj4ARaLi-UmepzS0
+Grandma's Kitchen,"19541 Richwood Dr, Cupertino",4.3,253,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJrQlLTxu1j4ARlHgXrtOFG4c
+Chef Kwan's,"630 Menlo Ave, Menlo Park",4,271,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJiQTY0LGkj4ARaKrhEgWBgHk
+Soong Soong Restaurant,"3680 Stevens Creek Blvd, San Jose",4.2,619,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpziIOezKj4ARn4VC_ZM1_WA
+Shanghai Delight,"218 Barber Ct, Milpitas",4,238,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJey0syybJj4ARwWBf2WE60Jk
+May Flower Restaurant,"1080 Saratoga Ave, San Jose",4.5,103,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJyzwpKJHLj4ARHb4BKRasyyk
+Terra,"2855 Stevens Creek Blvd, San Jose",4.4,529,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEw-kfKjLj4ARY3C15WsJZBE
+Osteria Toscana,"247 Hamilton Ave, Palo Alto",4.2,801,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJPwEoJjq7j4AR4Ymjl9MBLUw
+Gumba's Italian Restaurant,"176 S Murphy Ave, Sunnyvale",4,1048,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJ_svU1y2j4ARknuaJJT1xok
+Trellis Restaurant,"1077 El Camino Real, Menlo Park",4.3,258,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK5fHMa6kj4AR8DZJff2k-MQ
+Tre Monti,"270 Main St, Los Altos",4.3,195,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-2p_QZSxj4ARYGCfHQB_0O4
+Il Fornaio,"520 Cowper St, Palo Alto",4.2,1060,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpf2l3zi7j4ARq9jTYIKdfb0
+Buca di Beppo Italian Restaurant,"643 Emerson St, Palo Alto",4.1,1477,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEQbMSzq7j4ARCIzIQRU45og
+Tomatina,"3127 Mission College Blvd, Santa Clara",4.2,1093,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgXD1ed3Jj4ARcKSOl89S6Mg
+The Pasta Market,"4546 El Camino Real, Los Altos",4.1,417,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJc5kBeZuwj4AR2MeiNjQT000
+Il Fornaio Santa Clara,"2752 Augustine Dr #120, Santa Clara",4.2,2118,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJeYLDGe7Jj4ARTAWJla0ERHs
+PHO BANH MI,"1007 S De Anza Blvd, San Jose",3.9,161,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpVttkSa1j4ARJuUFnvzlEoE
+Cẩm Hưng Sandwich and Coffee,"903 Reed Ave, Sunnyvale",4.5,887,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJn4K9-wy2j4ARn0JIAdK-Sdw
+Tay Ho,"2047 El Camino Real, Santa Clara",4.4,630,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBwCwQkbKj4AR52VE81PXNhA
+Phở Long Thịnh,"1080 Saratoga Ave, San Jose",4.5,454,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBcWcrbvKj4ARn3eVb7ynUO8
+Phởtochau 999,"853 Villa St, Mountain View",4.4,1275,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJe1NXQDS3j4ARPm9KvbvygJc
+Pho Avenue,"2500 W El Camino Real, Mountain View",4.2,360,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ6cEtu5mwj4ARXUcsNOIpx1w
+Pho Lyfe,"3533 Homestead Rd, Santa Clara",4.6,253,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJYmtXky1j4ARkJ-6RfUNiAM
+Pho Viet Restaurant,"2557 N First St, San Jose",4.2,503,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJofXqmN_Lj4ARbQSNm7wc9dM
+Phở Nguyễn Restaurant,"275 W Calaveras Blvd, Milpitas",4.2,283,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3_tMRSjJj4ARY7y0mNwsYXw
+House of Phở,"1066 E El Camino Real, Sunnyvale",4.2,891,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq5_HO_C1j4ARUvvAg8RP4_E
+Phở Nam,"844 W El Camino Real, Sunnyvale",4.4,699,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJv7TJyvS2j4AROqKFVE7660o
+Phở Van,"1555 Laurelwood Rd, Santa Clara",4.3,308,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09TfZ4bJj4ARwrfO3w3oJNM
+Phở Vi Hoa,"4546 El Camino Real, Los Altos",4,763,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJc5kBeZuwj4AR5MSKHQl28rk
+Pho Banh Mi P1,"405 University Ave, Palo Alto",3.9,255,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJNewidym7j4ARYVJY70w89hI
+PhoEver,"321 W Washington Ave, Sunnyvale",4.4,513,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5_L7nl62j4ARei6rj-DjhzI
+Home Kitchen Vietnamese Cuisine,"1045 Monroe St, Santa Clara",4.2,161,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBT59xFLKj4ARyL-b1Wg6awg
+LeQuy,"3906 Middlefield Rd, Palo Alto",4.4,104,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJX2dDTkW7j4ARFo59XEuoaPk
+Phở Queen Noodle House,"1133 Tasman Dr, Sunnyvale",4.1,483,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJn5NWzSq2j4ARwqT78r_ee4o
+Pho Hoa & Jazen Tea - Mercado,"3147 Mission College Blvd, Santa Clara",4.1,1109,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJt6EAEt3Jj4ARHuLqvAEFUtQ
+Annie's Sandwiches,"2925 Park Ave, Santa Clara",4.7,200,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJp1fTQ6jLj4ARcbsEYoMfZPg
+Phở Nam Restaurant,"1205 Wildwood Ave, Sunnyvale",4.4,467,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJfXD2nye2j4ARNmmRtc0eH8Y
+Bowl of Pho,"1627 Hollenbeck Ave, Sunnyvale",4.5,156,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJo-CR0DO1j4ARblEbmQDyAp4
+Phở Lovers,"253 E Maude Ave, Sunnyvale",4.3,1198,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxUW8_062j4ARrrfRyKUvkwY
+Big Bites Vietnamese Eatery,"570 N Shoreline Blvd, Mountain View",4.1,291,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJDSpH40u3j4ARUfRnCcCRK9E
+Truong Thanh Vietnamese Restaurant,"680 Barber Ln, Milpitas",3.9,203,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhQD14STJj4ARS4--mS1EgCk
+Gogo Phở,"5025 Stevens Creek Blvd, Santa Clara",4.3,365,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJoYz9JYLKj4ARx_wfU9taFCw
+Pho Khang,"2207 Tasman Dr, Santa Clara",4.3,195,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhRdoQ7HJj4ARggl6cahn6Mo
+Pho Hoa + Jazen Tea (El Camino),"3484 El Camino Real, Santa Clara",3.8,669,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ478X-wnKj4ARw3sSZ7580Q4
+Pho Hoa Noodle Soup - Homestead,"20674 Homestead Rd, Cupertino",4.3,111,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJwyj6e5O1j4ARvhsunDMPfmA
+Pho Ha Noi,"10100 S De Anza Blvd, Cupertino",4.1,810,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVSJ2QgG1j4ARHTxgsMVmeQY
+Phở Hà Nội,"185 University Ave, Palo Alto",3.9,362,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJT_HstGa7j4ARLGiY5dPGJDg
+Wooga Korean BBQ,"10493 S De Anza Blvd, Cupertino",4.4,112,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJOaNLNQC1j4ARvzbaz4lodR4
+10 Butchers Korean BBQ,"595 E El Camino Real, Sunnyvale",4.4,1403,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJy-7zvVS3j4AR5plrODhDwJg
+Gen Korean BBQ House,"2540 W El Camino Real, Mountain View",3.8,1001,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJd6xfy5ixj4ARAqVhOFl4ub0
+Tofu Plus | Korean BBQ,"10971 N Wolfe Rd, Cupertino",4.3,773,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJ2lh8ZW1j4AR6dt9a7ReLfs
+Tobang,"1052 Kiely Blvd, Santa Clara",4.3,1017,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJy6tsfm7Kj4ARzJZ2WGCaW4U
+Korean Spring BBQ,"1062 Kiely Blvd, Santa Clara",4.2,422,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJXzl5nG7Kj4AR2JQsgtbRY0w
+Seorai Korean Bbq,"3044 El Camino Real, Santa Clara",4.4,235,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJy9g-svLLj4ARlMBCdWcxO2Y
+Ondam,"2450 El Camino Real, Santa Clara",4.1,295,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5Vzx3u7Lj4ARL3AGbXjk0gs
+Restaurant Chungdam,"3180 El Camino Real, Santa Clara",4.4,1477,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJg0tZUwzKj4ARj6NIP_8ADis
+Jang Su Jang,"269 W Calaveras Blvd, Milpitas",4.2,1117,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3XpaRyjJj4ARkHcG53gErpg
+Superhot Hot Pot & Korean BBQ,"210 Hope St, Mountain View",4.2,774,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJN_k8v0y3j4ARU5I-qHFv09U
+Hansung BBQ,"2644 El Camino Real, Santa Clara",4.1,554,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpyN8rRTKj4ARLNpSnYz12_g
+Shu's Korean Restaurant,"3258 El Camino Real, Santa Clara",4.1,355,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhcG8awzKj4ARN-FfRyWCEt8
+Su-Dam Korean Cuisine,"4546 El Camino Real, Los Altos",4,428,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJS_8lm5uwj4ARTNDjilGJWvY
+Gaboja,"2333 El Camino Real, Santa Clara",4.3,198,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlcPnH0HKj4ARKVTrRWatmyg
+JangTu Restaurant,"1012 E El Camino Real, Sunnyvale",4.3,546,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJPUwTgO-1j4ARv5TKwm4rxUk
+Rice Junky - Santa Clara (Korean Restaurant),"2089 El Camino Real, Santa Clara",4.3,665,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ301r9kbKj4AR9ETX0COEzZA
+Ilbunjee(#1 Restaurant),"2325 El Camino Real, Santa Clara",4.4,209,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0Z0k2UDKj4ARs1SIDwHglvs
+bb.q Chicken Sunnyvale,"561 E El Camino Real, Sunnyvale",4.2,225,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJN7KGGJ-3j4ARpcSEtt_P4X4
+Korean house (T&T fusion),"2589 N First St, San Jose",4.2,133,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJw5SwZN_Lj4ARsPdxZKuuWNg
+Mapo BBQ,"3395 El Camino Real, Santa Clara",4,226,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJk3MzWDDLj4ARV9VfllqPpho
+Kami Korean Kitchen,"1054 Kiely Blvd, Santa Clara",4.4,142,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL0e0hW7Kj4ARraRRWEdZHp0
+Bonchon Mountain view,"260 Castro St, Mountain View",4.2,740,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ9C5aqK3j4AR7Llr-oHZJpw
+Menlo BBQ,"555 Willow Rd, Menlo Park",4.3,211,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL-UtBlu7j4ARfTp_8xKGdbo
+Seapot Hot Pot & Bar,"740 E El Camino Real, Sunnyvale",4.2,837,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJr-6DkF-3j4ARdRld_i6iFjk
+Bonchon Sunnyvale,"572 E El Camino Real, Sunnyvale",4.2,1007,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJDblWdnq2j4ARlV_AvXov0bE
+Gooyi Gooyi,"2331 El Camino Real, Santa Clara",4,626,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ4xMB4EDKj4ARQXZvOe6Qs48
+Dae Bak,"3284 El Camino Real, Santa Clara",4.1,644,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJt2sFbgzKj4AR6wGcORzYYBs
+So Gong Dong Tofu House,"4127 El Camino Real, Palo Alto",4.3,1844,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtWFrFmO6j4ARbA4cFdc8mG0
+Kong Tofu and BBQ,"19626 Stevens Creek Blvd, Cupertino",4.3,503,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJRY6kzKG1j4ARGcZqX7JmepA
+Gyu-Kaku Japanese BBQ,"19620 Stevens Creek Blvd #150, Cupertino",4.4,1216,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVUQltaG1j4AR1P4csSC5AbQ
+bb.q Chicken Milpitas,"179 W Calaveras Blvd, Milpitas",4.1,160,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaYiGCn7Jj4ARTGbsDImEnsk
+Daeho Kalbi Jjim & Beef Soup,"217 W Calaveras Blvd, Milpitas",4.4,631,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnbHwGr_Jj4AR0mGC6oLUAdc
+Seoul Gom Tang,"3028 El Camino Real, Santa Clara",3.7,532,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJE3MSghLKj4ARRMkYd-fqW-w
+Pocha K,"2340 El Camino Real, Santa Clara",4.4,248,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ78EnlyrLj4ARvoq2zexYCUQ
+Obok Restaurant,"3072 El Camino Real, Santa Clara",4.2,212,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJzwCadw3Kj4ARpsPDeLuiFtE
+Jeffrey's Hamburgers,"888 El Camino Real, Menlo Park",4.5,1444,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQaUX9rGkj4AR0094cczM7es
+The Stand - American Classics Redefined,"785 Lawrence Expy, Santa Clara",4.6,572,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJP-9U5rC1j4AR2h6zkPDzcv0
+iniBurger - Gourmet Burgers,"3555 Monroe St #75, Santa Clara",4.5,314,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ288l4um3j4ARbg8A00YJHHQ
+In-N-Out Burger,"50 Ranch Dr, Milpitas",4.6,4308,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJoS74kN_Ij4ART0_lx6YoqF0
+In-N-Out Burger,"604 E El Camino Real, Sunnyvale",4.6,6260,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJX1GAi2S2j4ARvOtglmNR04g
+Burger Barn,"2485 Forest Ave, San Jose",4.2,464,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJFf8ONeLKj4ARMWdHkPfgjOg
+In-N-Out Burger,"53 W El Camino Real, Mountain View",4.5,4967,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnd9jPSi3j4AR5m7u0VrveB8
+In-N-Out Burger,"3001 Mission College Blvd, Santa Clara",4.5,5978,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-SOj-ufJj4ARdA0LHl3Siq8
+In-N-Out Burger,"1159 N Rengstorff Ave, Mountain View",4.5,7334,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5V-QXKiwj4ARv5e-BSB9fiA
+Habit Burger & Grill,"20735 Stevens Creek Blvd, Cupertino",4.3,945,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJf33kna21j4AREoE6zAKFwHY
+The Counter,"2580 W El Camino Real, Mountain View",4.2,1622,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJyS7o4Zuwj4ARon29W1GsXJo
+The Habit Burger Grill,"1040 Grant Rd, Mountain View",4.1,161,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJy-kI0EC3j4ARwGKPY8qqp-8
+Habit Burger & Grill,"146 W El Camino Real, Sunnyvale",4.2,1185,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJWRPB5GO2j4ARMtYHzir7yqY
+Kirk's SteakBurgers - Palo Alto,"2680 Middlefield Rd, Palo Alto",4.3,486,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJc5w7vvy6j4ARAFnKDu5CVRI
+Macho Burger,"927 E Arques Ave #121, Sunnyvale",3.4,238,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEct1wym3j4ARgXc8wbxq3ZQ
+Red Robin Gourmet Burgers and Brews,"3906 Rivermark Plaza, Santa Clara",3.9,1659,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVe9KbXbJj4ARcIOzrUx2pDo
+Five Guys,"116 E El Camino Real, Sunnyvale",4.4,1436,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBe3PemS2j4ARA7sDzOyakHA
+Wayback Burgers,"1547 California Cir, Milpitas",4,1111,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJXYxuQbzIj4ARNj2QDX62WK4
+St. John's Bar & Grill,"510 Lawrence Expy, Sunnyvale",4.5,3494,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySYS8p-1j4ARZCT6mFLkO9E
+Last Chance Restaurant,"3400 De La Cruz Blvd, Santa Clara",4,322,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJz9HSwH7Jj4ARzffinRzh-x4
+Lazy Dog Restaurant & Bar,"19359 Stevens Creek Blvd, Cupertino",4.3,5005,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAb33GUS0j4ARjGKbpYi5jR4
+Armadillo Willy's Texas BBQ,"161 E El Camino Real, Sunnyvale",4.2,1198,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJP2kAMGW2j4ARb_zV97FCq5U
+Five Guys,"2098 W El Camino Real, Mountain View",4.3,1656,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJW2bLBLywj4ARhMyt7xf43Js
+Armadillo Willy's BBQ,"2624 E Homestead Rd, Santa Clara",4.2,572,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1c4J4GbKj4ARUdYG8mSVX4A
+Rossotti’s Alpine Inn,"3915 Alpine Rd, Portola Valley",4.6,2859,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBZrpYl-lj4AR4K5ngtG0KOE
+Euro Grill,"980 El Camino Real #100, Santa Clara",4.8,708,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5dgwMbPLj4ARc3mEptq6Nxw
+Black Bear Diner Sunnyvale,"415 E El Camino Real, Sunnyvale",4.2,2440,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJi0mfunq2j4AReZTjIbT3smo
+Cap't Loui,"19700 Vallco Pkwy #150, Cupertino",4.7,895,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJN06212-1j4ARmXgKWnhSJQU
+Cajun Crack'n Milpitas,"275 Ranch Dr, Milpitas",4.8,1176,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO52-mDbJj4ARynqMueGueFk
+Cook's Seafood,"751 El Camino Real, Menlo Park",4.5,1144,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ1UNLrKkj4ARKcgVQRourdA
+Rustic House Oyster Bar & Grill - Los Altos,"295 Main St, Los Altos",4.3,821,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5TATx--wj4ARZdlFK-M2_O4
+The Roasted Crab,"3151 Mission College Blvd, Santa Clara",4.1,238,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIyHvhlHJj4ARi2uE12KepV8
+Pacific Catch,"711 Stanford Shopping Center, Palo Alto",4.2,645,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJzcXtnO7j4ARGsdmlyvEgYI
+Luna del Mar Restaurant,"991 Saratoga Ave #110, San Jose",4.8,116,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGSWFeyXLj4AR2LiKzHBIMVI
+King's Fish House,"2855 Stevens Creek Blvd, San Jose",4.3,1230,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVVVVUB7Lj4ARYzeDPpibxI4
+Fish's Wild,"20672 Homestead Rd, Cupertino",4.4,350,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJESooEcu1j4ARUKm-wD4Zeyw
+The City Fish,"21678 Stevens Creek Blvd, Cupertino",4.6,1126,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJDw_zPkS0j4ARYnKCOfx3_SA
+Rok Steakhouse & Grill,"4130 N First St, San Jose",4.3,1628,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKWESUVPIj4ARDRhfL_DD2nI
+Birk's,"3955 Freedom Cir, Santa Clara",4.5,2197,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvQ88PywYyUwR3Tcw8JMtTj4
+Galpão Gaucho Brazilian Steakhouse,"19780 Stevens Creek Blvd, Cupertino",4.6,1866,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ4x9UGqG1j4ARjgyZdqgBPdg
+Arya Steakhouse,"140 University Ave, Palo Alto",4.4,1179,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJXzozIq2jj4ARpEwPAaO9InY
+Los Altos Grill,"233 3rd St, Los Altos",4.5,1570,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJWUOqde-wj4ARvFRj5XeG0CY
+Alexander's Steakhouse,"19379 Stevens Creek Blvd, Cupertino",4.5,1641,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ38II9Ji1j4ARxUTIEfcTGx0
+Sundance The Steakhouse,"1921 El Camino Real, Palo Alto",4.6,2149,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaWnuL-e6j4ARR6YIY348nZk
+Redwood Grill in Los Altos,"680 Fremont Ave, Los Altos",4.3,123,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJD7zQ58exj4AR3GdrlEhT-bE
+Sizzler,"2855 Augustine Dr, Santa Clara",4,1907,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHU48Ae_Jj4ARiZo_fl6bCJc
+The Sea by Alexander's Steakhouse,"4269 W El Camino Real, Palo Alto",4.5,1313,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJOT4Wp3m6j4ARL_3gCaC-HJ0
+Holder’s Mission City Grill,"2000 El Camino Real, Santa Clara",4.4,1604,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSetpCkbKj4ARnM6R9Ho8iNI
+Mikiya Wagyu Shabu House | Santa Clara,"3590 Homestead Rd, Santa Clara",4.7,1078,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVe_0K9m1j4AR2DRSXeB8LH8
+Show de Carnes Brazilian Steakhouse,"3398 El Camino Real, Palo Alto",4.7,157,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJB3hVsb67j4ARXMaL06rl50c
+BJ's Restaurant & Brewhouse,"10690 N De Anza Blvd, Cupertino",4,2467,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJM75zpLa1j4ARd8IiWxkW30g
+Naschmarkt - Palo Alto,"2323 Birch St, Palo Alto",4.6,223,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq6oGtOW6j4AROUSVKcfXF0k
+Mayan Kitchen,"139 S Murphy Ave, Sunnyvale",4.6,380,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZXSUR1G3j4AR8TAtk-lNYpE
+Garden Fresh,"1245 W El Camino Real, Mountain View",4.5,889,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJi93uLsywj4ARH81XgnsYctU
+sweetgreen,"581 Ramona St, Palo Alto",4,596,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKWjVKTq7j4ARuUYobtoUXfQ
+sweetgreen,"300 W El Camino Real, Sunnyvale",4.1,615,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJd_ydnWG2j4ARPjGR0_2wJWU
+sweetgreen,"440 Castro St, Mountain View",4.2,565,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJw4RuczO3j4ARC7RByZ5K9nI
+True Food Kitchen,"180 El Camino Real Ste 1140, Palo Alto",4.2,2275,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJt9KIrTW7j4ARjb1bTp5MW-E
+Aqui Cupertino,"10630 S De Anza Blvd, Cupertino",4.5,2317,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJXcisMQe1j4ARtlM0cX8f3bE
+Loving Hut,"516 Barber Ln, Milpitas",4.4,541,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtVrFXCTJj4ARdNy9TwmqSuM
+Happy Flower Eatery & Boba,"1274 Persian Dr, Sunnyvale",4.6,181,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8Yg4SY23j4ARW5SpWqKNXA8
+Athena Grill & Catering,"1505 Space Park Dr, Santa Clara",4.5,1918,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJH7hSMCjKj4ARGFgaleOZsZc
+Sri Ananda Bhavan - Sunnyvale,"920 E Arques Ave, Sunnyvale",3.9,1909,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaycRKRa2j4AR83NNzfgnGYw
+Vitality Bowls,"115 S Frances St, Sunnyvale",3.8,196,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKdJYbFy2j4ARsucKxcudxqM
+Local Kitchens,"369 California Ave, Palo Alto",4.6,431,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYaUeoRe7j4AR5PA4iBUMxeI
+Local Kitchens,"21666 Stevens Creek Blvd, Cupertino",4.8,683,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJS61Rr3C1j4ARNNui-_ovkWs
+Oren's Hummus,"261 University Ave, Palo Alto",4.4,2497,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ361H6jm7j4ARk1vmz_dEqwE
+Tane Vegan Izakaya,"461 Emerson St, Palo Alto",4.7,108,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJsZYrFAC7j4ARgZiNdSEjGsQ
+The Gurkha Kitchen,"1342 S Mary Ave, Sunnyvale",4.6,624,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL4DZYUS3j4ARSr5uLUgSsg4
+Nahita Bakery,"1334 S Mary Ave, Sunnyvale",4.9,251,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG_xc8yy7j4ARGTEjK0BF3jc
+Roger's Deli & Donuts,"295 E Middlefield Rd, Mountain View",4.4,1399,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQ4F3PBa3j4ARf7_QjN1Cklo
+RAJARANI Bakery and Restaurant,"952 W El Camino Real, Sunnyvale",4.7,386,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9ajfUgC3j4AR5ZDpcq2QfS4
+LeVant dessert,"842 Santa Cruz Ave, Menlo Park",4.4,156,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJB0d75rK9j4AR-sgYVBDrIgs
+Yeganeh Bakery and Kafe Unik,"3275 Stevens Creek Blvd #125, San Jose",4.4,1404,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_dwz2CS2j4ARl4Ijzil8phk
+Douce France,"855 El Camino Real #104, Palo Alto",4.5,624,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHz4XFiW7j4ARn0Db50n4L2k
+Palo Alto Creamery,"566 Emerson St, Palo Alto",4.4,2308,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJyaiRIjq7j4ARpFp0WP-WoNA
+Olympus Caffe & Bakery,"135 Castro St, Mountain View",4.3,1973,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZSOjJjS3j4AR1laX4fkSz08
+GK Pastry,"809 Cuesta Dr, Mountain View",4.9,108,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBYBJet2xj4ARbIK75x-QLfk
+Cocohodo,"1082 E El Camino Real, Sunnyvale",4.3,353,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJb2JRT_C1j4ARzhXZMd-sRY4
+Boudin SF,"701 Sunnyvale Saratoga Rd, Sunnyvale",4.2,629,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ72SV9WO2j4ARbC-PU-J1BTs
+Bay Area Hot Breads,"464 E El Camino Real, Sunnyvale",4.2,520,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJU2SsvXq2j4AR1kErJdRIfQc
+Panera Bread,"1189 E Arques Ave, Sunnyvale",4.2,868,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtY387x62j4ARaM4f-9XOf5Q
+Sweet Maple,"20010 Stevens Creek Blvd, Cupertino",4.5,821,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ45nohjW1j4ARlHArHtlS5I0
+Son & Garden,"1195 Merrill St, Menlo Park",4.3,532,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLylwScmlj4ARj_Cu5p52tuc
+Sweet Maple,"150 University Ave, Palo Alto",4.4,765,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgSKtATq7j4AR1LVZ7VN8W3I
+Crepevine Restaurants,"367 University Ave, Palo Alto",4.4,1932,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgbClrTm7j4ARJhcj3TrrG9g
+Dinah's Poolside Restaurant,"4261 El Camino Real, Palo Alto",4.5,763,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxUf2lnm6j4AROxY8N4vkocM
+Keke's Breakfast Cafe,"311 S Mathilda Ave, Sunnyvale",4.5,408,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBX8YG7e3j4ARVAkuScjKoMo
+Papas and Eggs (Mountain View),"2070 Old Middlefield Way, Mountain View",4,243,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJz_sWKQK7j4ARgmIaJnNrUqI
+Sara's Kitchen,"1595 Franklin St, Santa Clara",4.3,1138,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJT_vuSVLKj4ARZ1WlEe4QzcI
+Bajis Cafe,"2423 Old Middlefield Way, Mountain View",4.4,1139,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu_26IQm6j4AR_Pl-EyDdOwU
+Bill of Fare,"1069 Saratoga Ave, San Jose",4.4,1050,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJd1KveLzKj4ARW_46L1iX33s
+Kenny's Cafe,"2315 De La Cruz Blvd, Santa Clara",4.7,586,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJt-0RjMnLj4ARnRogoDTvB2A
+The Original Pancake House,"420 S San Antonio Rd, Los Altos",4.2,691,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJy02vUuSwj4AR0evlxyNKfn0
+STACKS Menlo Park,"600 Santa Cruz Ave, Menlo Park",4.3,1277,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ6ciMyq-kj4ARRLEgxqtHAjQ
+A Good Morning,"4546 El Camino Real, Los Altos",4.3,852,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJc5kBeZuwj4ARbr1oPiyATE0
+Mikayla's Cafe,"2209 Tasman Dr, Santa Clara",4.3,1108,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0eFZWbHJj4ARUUnKg2-r9gY
+Crepevine Restaurants,"300 Castro St, Mountain View",4.3,4045,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ4TTDdzS3j4AR78EQgu5EADA
+Mil's Diner,"36 S Abbott Ave, Milpitas",4.5,1207,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJk-w3DyjJj4ARDVe4FWkxSBU
+Joanie's Cafe,"405 California Ave, Palo Alto",4.4,1581,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK3g59OW6j4AR5Q5CCNShy3o
+Rick's Cafe,"205 State St, Los Altos",4.2,719,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq_CzN-6wj4ARTyyNEspj-Es
+Mikayla's Cafe & Catering,"890 Aldo Ave, Santa Clara",4.3,497,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkziXnYHJj4ARGT2UGIkXMa0
+Hobee's,"4224 El Camino Real, Palo Alto",4.3,1091,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJzUCJ5Hu6j4ARglde9co9EK8
+Metro City Restaurant & Bar,"151 S Murphy Ave, Sunnyvale",4.3,1662,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0Z430AG3j4ARXtvP14kuf0o
+Village Pantry,"184 2nd St, Los Altos",4.4,262,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlWhjzu-wj4ARDWUaBphKinA
+K's Cafe,"126 E Fremont Ave, Sunnyvale",4.3,502,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx4u-fNa1j4ARqonKI3_khNE
+Tom's Depot,"991 Fremont Ave, Los Altos",4.3,306,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0x5zmEuxj4AR9l_uxDv9qUw
+Denny's,"910 Saratoga Ave, San Jose",3.8,1520,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJMQWANrzKj4ARC_6lu1k8Gg8
+Bobbi's Coffee Shop & Cafe,"1361 S De Anza Blvd, Cupertino",4.4,507,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIW-l0R61j4ARrbJY-NGpY5Q
+Denny's,"1745 El Camino Real, Santa Clara",4.2,1837,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSYh6NE_Kj4ARtPe6qUMxW2I
+Bazille,"2400 Forest Ave, San Jose",4.4,189,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJY1Oq--HKj4AR2c-fnpoBIpI
+Das Bierhauz,"135 Castro St, Mountain View",4.3,244,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJW2ynIPu3j4ARXDXw5S94e0o
+La Boheme,"415 California Ave, Palo Alto",4.4,575,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJp_VW7eW6j4ARpcOR4xWV7bo
+Fibbar MaGees,"156 S Murphy Ave, Sunnyvale",4.3,1617,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJTRv-U1y2j4ARVu4B_MvvRPE
+Country Gourmet,"1314 S Mary Ave, Sunnyvale",4.2,725,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ161QKoO2j4ARwqDhz3XfH-Y
+Ramen Wakusei,"585 E El Camino Real, Sunnyvale",4.5,176,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK5iGzDi3j4AR-iRLeo0iDTw
+Marugame Udon,"2855 Stevens Creek Blvd, Santa Clara",4.6,574,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8ftjHxTLj4ARnUJhbL983Jc
+Kumako Den,"487 Saratoga Ave, San Jose",4.7,603,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVQtbCLjLj4ARnYX8Sg-mxaQ
+Marufuku Ramen Cupertino,"19772 Stevens Creek Blvd, Cupertino",4.5,354,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJw1N0TPq1j4ARiWgSpsEurvo
+HiroNori | Craft Ramen,"4300 Great America Pkwy #180, Santa Clara",4.4,1738,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZw6-oKvJj4ARnE5qohg5ILw
+Udon Mugizo,"1072 Saratoga Ave, San Jose",4.4,534,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJe5iRE2XLj4ARi1-93Dj5O-Q
+HiroNori Craft Ramen,"10815 N Wolfe Rd, Cupertino",4.3,284,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJM668Kvm1j4ARkqu04AX6QlY
+Yugen Ramen,"152 Castro St, Mountain View",4.4,2271,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvRgkOzS3j4AR6-MWU-pSdQk
+SOJO Ramen,"43779 Boscell Rd, Fremont",4.3,252,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHa993FfHj4ARqtMRszzbGdc
+Ramen 101,"133 Ranch Dr, Milpitas",4.1,143,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJjzcSA_jJj4ARKrGwJn6EQm8
+Ramen Nagi,"2855 Stevens Creek Blvd, Santa Clara",4.5,1785,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJdWkLR9zLj4ARUf7Gj52Rw6Y
+Ramen Nagi,"541 Bryant St, Palo Alto",4.6,3079,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJR1988Qm7j4ARi_KmggVETuc
+Ramen Seas,"173 S Murphy Ave, Sunnyvale",4.3,1290,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ6UdoUly2j4ARxztAOUbNoJM
+Taro San Japanese Noodle Bar,"717 Stanford Shopping Center, Palo Alto",3.9,630,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGcqedvy7j4AR3qCgK_C-3qU
+Ramen Hajime,"5229 Stevens Creek Blvd, Santa Clara",4.5,521,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ01lbOX61j4AR-QbTWGOIcLI
+Ramen Taka,"2219 The Alameda, Santa Clara",4.4,1109,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJoVvItwnLj4ARHv0zjPdWlr4
+Myzen Ramen,"520 Lawrence Expy #304, Sunnyvale",4.2,744,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqX-rph-2j4ARf-ODWyV69a8
+Kahoo Ramen,"4330 Moorpark Ave, San Jose",4.3,725,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJg4rc-JbKj4AR5XwLbHIuHcQ
+Men-Bei Ramen,"1349 Coleman Ave, Santa Clara",4.4,421,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYfOpg7DLj4AR-7Hjpe15krE
+Kanji Sushi & Ramen,"4131 El Camino Way, Palo Alto",4.6,209,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0dOudwC7j4AREfbInswM9lA
+Ramen Kowa,"445 California Ave, Palo Alto",4.4,268,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq6Jj6y-7j4ARmkaTCtvuosg
+Tacos La Patrona,"776 El Camino Real, Sunnyvale",4.8,104,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxSBYaYW1j4ARI9vjrDQiCoY
+Tacos el Noa Noa,"208 S Fair Oaks Ave, Sunnyvale",4.5,267,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAQAAAGu2j4ARVpOcQHGKIF8
+Tacos Los Primos del Sur,"807 N Shoreline Blvd, Mountain View",4.8,101,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ31mZ0f23j4ARvY9XI57lHxk
+Super Tacos El Conrro,"2082 W El Camino Real, Mountain View",4.4,602,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJD0Fxqb6wj4ARle_x0P0nxcM
+Sancho's Taqueria,"491 Lytton Ave, Palo Alto",4.2,830,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhbe6ZDi7j4ARhSkIguAM5oU
+Taqueria La Espuela,"854 W Dana St, Mountain View",4.2,1000,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJUf3BejS3j4ARpm4CLRkFHeQ
+El Califas Tacos,"495 Moffett Blvd, Mountain View",4.8,128,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJzQW0Ss63j4AR9ZZ6hr6hvl8
+Sancho's Taqueria,"2723 Middlefield Rd, Palo Alto",4.3,581,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJc1ATKFa6j4ARZQoyTzpy0-8
+Cato's Tacos Food Truck,"1255 W El Camino Real, Sunnyvale",4.7,337,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJFxOkwOi2j4ARRVbfhH67NZc
+Tacos y Hamburguesas Toluco,"2150 University Ave, East Palo Alto",4.2,151,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ46I3Koq7j4AR1QI53DFguPQ
+Super Tacos El Conrro,"2530 California St, Mountain View",4.1,375,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJV1bqjpiwj4ARhpkMf6HqyD8
+Nuevas Generaciones Taqueria,"3677 Stevens Creek Blvd, Santa Clara",4.8,127,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJe0_Wsi_Lj4ARJMbuv4P1V-c
+Tacos Al Vapor Michoacan,"131 Main St, Los Altos",4.6,156,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3ekn4Nqxj4ARzOl_dKyqLdY
+Frontera Grill Taco Truck,"1188 S De Anza Blvd, San Jose",4.4,109,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJI0TDhBu1j4ARJcsqqQllZ1Q
+Freedom Burrito,"5239 Stevens Creek Blvd, Santa Clara",3.9,396,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkzxH9X61j4ARIOXevur8KqU
+The Oxford Kitchen and Gastropub,"195 S Murphy Ave, Sunnyvale",4.2,1398,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJ8bSsl22j4ARNPmH97XSyfk
+Laughing Monk Brewing and Gastropub,"1235 Oakmead Pkwy, Sunnyvale",4.1,1264,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvQFJjt_Jj4ARBdSOaKE_wGo
+Floodcraft Taproom,"2732 Augustine Dr Ste 1600, Santa Clara",4.4,116,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQfElblnJj4ARZBP6l2-olCM
+The Province International Fusion & Events,"1788 N First St #10, San Jose",4,348,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJTfeSpJLLj4ARiW29D_TYwHc
+OFF THE RAILS BREWING CO.,"111 S Murphy Ave, Sunnyvale",4,376,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJrci684u3j4AR_CTDtm6SQdw
+Craft House,"295 E Washington Ave, Sunnyvale",4.1,253,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJdT4ma122j4AR0BkaMNKAeQ4
+Steins Beer Garden & Restaurant,"895 Villa St, Mountain View",4.3,4371,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJuzFtRDS3j4AR1gfuHqaeG7k
+Fairchilds Public House,"409 San Antonio Rd, Mountain View",4.1,139,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlTUD1AGxj4ARuBRu9Dj2OxE
+Peggy Sue's,"691 Tasman Dr Q, Sunnyvale",3.9,184,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJW6Ai9d23j4AR3so29cnPwy4
+Denny's,"814 Ahwanee Ave, Sunnyvale",4,2113,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgfcHc623j4ARuJUKgXg45hk
+Denny's,"3715 El Camino Real, Santa Clara",3.7,1128,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7fG-1fC1j4ARf2rDPUXpXxI
+Local Union 271,"271 University Ave, Palo Alto",4.1,1862,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJScdLwDm7j4ARCbo6bng01sU
+Denny's,"2077 N First St, San Jose",4.1,1556,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJE7rUTunLj4ARp7EwG2TEfI4
+Denny's,"333 S Abbott Ave, Milpitas",3.9,1699,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJB2OinCjJj4ARCu7qNrU_AwM
+Metro City Restaurant & Bar,"919 E Duane Ave, Sunnyvale",4.3,170,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5Uf_GhG3j4ARlCKZWpm8IEI
+Peninsula Creamery - Dairy Store & Grill,"900 High St, Palo Alto",4.4,240,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJcb2lTTu7j4ARtV09mp6ALGY
+Ethel's Fancy,"550 Waverley St, Palo Alto",4.6,207,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJRTRAoc67j4ARM-MLNMDboBo
+Kunjip,"1066 Kiely Blvd, Santa Clara",4.4,2264,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO79pfG7Kj4ARTnmoiEbJKEk
+Le Papillon,"410 Saratoga Ave, San Jose",4.6,783,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJcT_OepPKj4AR0C1KDFJw_U0
+Chez TJ,"938 Villa St, Mountain View",4.5,573,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJPUL8UjS3j4ARdCh-Ys_Bgqs
+Le Petit Bistro,"1405 W El Camino Real, Mountain View",4.3,308,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJayz3ts6wj4ARazzb1sL5yNU
+La Fontaine Mountain View,"186 Castro St, Mountain View",4.3,961,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ54APTS3j4ARBYZD956MHq8
+Bistro Vida,"641 Santa Cruz Ave, Menlo Park",4.4,459,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJPTPS1q-kj4ARMuL955Oc-tI
+Left Bank,"635 Santa Cruz Ave, Menlo Park",4.2,1136,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJo4971K-kj4AReyDUlK6mSI0
+Bistro Elan,"2363 Birch St, Palo Alto",4.4,144,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJMzIVsOW6j4ARuVSOvM3YcfY
+Zola + BarZola,"585 Bryant St, Palo Alto",4.5,692,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJOzI3gjm7j4ARtGwnfAcuKaU
+Iraklis Restaurant,"2165 El Camino Real, Santa Clara",4.8,373,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJm-cck9PLj4AR32ws3g6VT9Q
+Garlic Mediterranean Grill,"2786 Homestead Rd, Santa Clara",4.4,872,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxX-1nQ3Kj4ARU4ki2CRBooY
+Barbayani Greek Taverna,"388 Main St, Los Altos",4.1,123,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7ySZIY6xj4ARV6eC-BPNplg
+Sultana Mediterranean,"1149 El Camino Real, Menlo Park",4.5,654,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJiRDbtq-kj4ARtq3vEYcFmvw
+Hummus Mediterranean Kitchen,"715 Stanford Shopping Center, Palo Alto",4.6,329,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJw9v7bFC7j4ARqHLv-7H0mZQ
+Dishdash Middle Eastern Cuisine,"190 S Murphy Ave, Sunnyvale",4.6,6061,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJS-AArV22j4AR1rJD3ENugCU
+Hummus Mediterranean Kitchen,"185 Castro St, Mountain View",4.4,392,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJDwVSiN-3j4ARzmdKWdvDSDs
+Kali Greek Kitchen,"451 California Ave, Palo Alto",4.6,790,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqQzX9eW6j4ARRQTr9028s7k
+Dish N Dash,"260 Ranch Dr, Milpitas",4.5,2280,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJeT6w2N7Ij4ARox43qzz-u2M
+Oren's Hummus,"19419 Stevens Creek Blvd, Cupertino",4.4,1807,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGQFJdJ61j4ARIZHyixRmDsU
+Greek Spot,"604 S Mary Ave, Sunnyvale",4.4,990,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9XQyXvK2j4ARJiaEfQ_Hvz4
+TAVERNA,"800 Emerson St, Palo Alto",4.4,910,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVVUFazu7j4ARLXVs7f4wu-M
+Mediterranean Wraps,"433 California Ave, Palo Alto",4.5,1278,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEWzP8uW6j4ARkmIR7vba8es
+Dish n Dash,"2551 N First St, San Jose",4.5,2780,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ4RNoN_Lj4ARdmE5ulJiV6I
+Shawarmaji,"2281 The Alameda, Santa Clara",4.5,409,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ78QiHrnLj4ARyUIdxeGWKiE
+Nick The Greek | Sunnyvale,"1687 Hollenbeck Ave, Sunnyvale",4.2,444,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJA5H6wTO0j4ARvw5vVbU6n5E
+Anatolian Kitchen,"340 California Ave, Palo Alto",4.3,878,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-RTutuW6j4AR4VYL3DZDAvg
+Holyland Restaurant and Catering,"807 Aldo Ave #105, Santa Clara",4.4,977,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpY6BGILJj4ARV-RgcnU8Szk
+Dish n Dash,"736 N Mathilda Ave, Sunnyvale",4.6,2328,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJk4ZSOq23j4ARA2ybDPJY9Cw
+Chelokababi Persian Cuisine,"1236 S Wolfe Rd, Sunnyvale",4.3,1724,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJe1ssGOe1j4ARb40hKaLVQkw
+Achilles,"2521 Newhall St, Santa Clara",4.6,1387,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9YVdRIzLj4ARKp3PpZ5qu38
+SAJJ Mediterranean (Mountain View),"2580 W El Camino Real, Mountain View",4.5,922,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJb4sB4Zuwj4ARfVoCSwzEgDc
+SAJJ Mediterranean (Sunnyvale),"145 S Frances St, Sunnyvale",4.4,693,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvcyAP1y2j4AROJ_wdXBmd2U
+ShaQ,"3475 E El Camino Real, Santa Clara",4.3,405,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_5TPv-zLj4AR6l5ms1Q3pYM
+Oren's Hummus,"126 Castro St, Mountain View",4.4,3029,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJsRJ_JTS3j4AR9RJPR8J3GB8
+House of Falafel,"19590 Stevens Creek Blvd, Cupertino",4.1,797,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ50U9hJ-1j4AR47TWB8Q7nOc
+Falafel STOP,"1325 Sunnyvale Saratoga Rd, Sunnyvale",4.5,6083,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLdT_gda1j4ARBId-zPOV_IY
+Falafel Flare Sunnyvale,"470 N Mathilda Ave, Sunnyvale",4.3,275,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG0SQLjq3j4AROHNPgzjKKUw
+Dish n' Dash,"20750 Stevens Creek Blvd, Cupertino",4.5,1066,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJRelsu6S1j4ARuTzkEFEyj94
+Opa! Santa Clara,"2722 Augustine Dr #130, Santa Clara",4.1,1207,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJS9DlCPLJj4ARO2kg9yJ_Cc8
+Orens Hummus Express,"855 El Camino Real #162, Palo Alto",4.2,138,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJe858WAS7j4AR3SYscE3OsZU
+The Kebab Shop,"3938 Rivermark Plaza, Santa Clara",4.1,292,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJewX5zqHJj4ARseoTPnBZpW0
+Halal Gyro Express & Kebab,"2567 N First St, San Jose",4.2,248,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ--faQ4rLj4AR1THv2dqCtZE
+Rara,"201 California Ave, Palo Alto",4.8,994,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJeYSESRq7j4AREj5yWWRdjrc
+Karimi Indian and Pakistani Cuisine,"1086 N First St, San Jose",4.3,1005,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJedqCrYHLj4ARkRto3lpYLHs
+Stone Stew 1(Dizi Sangi),"4233 Moorpark Ave, San Jose",4.2,761,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ6NPRZPKj4ARvzhyzUK4jtA
+Tayyibaat,"10 S Abbott Ave, Milpitas",4.1,304,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK3sGDtjIj4ARe1I67FEJ1Gc
+Zhangliang Malatang,"246 Castro St, Mountain View",4.2,357,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJj7V2HaG3j4AR_dDZM_SSLPw
+Ettan,"518 Bryant St, Palo Alto",4.2,1735,https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ4a0RmI67j4ARqr2S5nEYX2U
